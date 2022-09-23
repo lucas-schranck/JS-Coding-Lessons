@@ -1,0 +1,25 @@
+function multiplyAll(arr) {
+  let product = 1;
+  // Only change code below this line
+  for (var A = 0; A < arr.length; A++) {
+    for (var B = 0; B < arr[A].length; B++) {
+  product = product * arr[A][B];
+  console.log(product)
+      }
+  }
+  // Only change code above this line
+  return product;
+  
+}
+
+multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
+
+/* You will use double "for"
+this is because there are two arrays, one inside the other
+each for assesses each 
+multiplyAll will need double checks: 
+one for outer array (A)
+one for inner array (B) 
+arr[A][B] will make use of both of them
+This is why product * arr[A][B] also multiplies the third number
+arr.length is used to utilize all the length of said array*/

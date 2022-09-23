@@ -1,0 +1,10 @@
+// Setup
+const myArr = [2, 3, 4, 5, 6];
+
+// Only change code below this line
+// USER NOTE: You have to add myArr[1] to myArr[2] and so on
+
+let total = 0;
+for (let i = 0; i < myArr.length; i++) {
+  console.log(total += myArr[i]); //Log is for understading purposes
+}

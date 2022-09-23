@@ -1,0 +1,9 @@
+// Setup
+const myArray = [];
+var number = 9
+for (number = 9; number > -1; number -= 2){
+  myArray.push(number);
+
+console.log(myArray)
+} 
+// Only change code below this line

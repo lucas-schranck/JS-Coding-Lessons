@@ -1,0 +1,9 @@
+// Only change code below this line
+function countdown(n){
+return n < 1 
+? []
+: [n, ...countdown(n - 1)];
+   
+}
+/* ... will run countdown until it gets the result expected*/
+// Only change code above this line

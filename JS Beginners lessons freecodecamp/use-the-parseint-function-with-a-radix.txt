@@ -1,0 +1,10 @@
+function convertToInteger(str) {
+str = parseInt(str, 2);
+return (str);
+}
+
+convertToInteger("10011");
+
+/*(str,2) where 2 is base for binary system (1 or 2) and so on
+in this case, we "force" the binary system by inputting it, as it's
+not a integrated parameter(to find binaries) */

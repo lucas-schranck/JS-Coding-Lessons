@@ -1,0 +1,10 @@
+// Setup
+const myArray = [];
+let number = 5;
+
+while (number > -1) {
+  myArray.push(number);
+  number--;
+  console.log(myArray)
+}
+// Only change code below this line
