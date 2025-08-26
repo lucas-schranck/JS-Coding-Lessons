@@ -1,4 +1,5 @@
 JavaScript Learning Path
+
 A curated collection of my JavaScript projects and exercises, completed as part of the FreeCodeCamp curriculum. This repository serves as a personal archive and a demonstration of my journey from fundamental concepts to moderately complex programming challenges.
 
 📚 Overview
