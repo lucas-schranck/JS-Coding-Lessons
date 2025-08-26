@@ -1,4 +1,4 @@
-JavaScript Learning Path <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> Learning path by Lucas Schranck
 
 A curated collection of my JavaScript projects and exercises, completed as part of the FreeCodeCamp curriculum. This repository serves as a personal archive and a demonstration of my journey from fundamental concepts to moderately complex programming challenges.
 
